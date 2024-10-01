@@ -5,7 +5,7 @@ Este projeto implementa um padrão DAO (Data Access Object) em Java, utilizando 
 ## 📦 Funcionalidades
 
 - 🔗 Conexão com o banco de dados usando JDBC
-- 📋 CRUD (Create, Read, Update, Delete) completo para a entidade `User`
+- 📋 CRUD (Create, Read, Update, Delete) completo para a entidade `Seller` e `Department`
 - 🔄 Gerenciamento de transações
 - ⚠️ Tratamento de exceções
 
